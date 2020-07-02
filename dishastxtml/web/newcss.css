@@ -1,0 +1,28 @@
+.sablon{width:1200px; height:150px; margin:15px auto}
+.logo{width:150px ; height:150px;float:left }
+.banner{width:990px ;height:100px;float:left ;margin:0 0 0 10px;background: #d8b41a ;border-radius: 10px;
+       color: #fff;font:bold 25px tahoma;text-align: center ;padding: 50px 0 0 0}
+.sosyal{width:240px;height:47px ;float:left ;margin:8px 0 0 10px}
+
+.orta2{width:762px;height:400px;float:left ; background: #ffffff; margin: 30px 0;
+      padding:5px 0}
+.orta2baslik{width:762px; height:50px;float:left;font: bold 25px tahoma;color: #000}
+.orta2haberler{width: 762px;height:60px;float:left;font: 25px tahoma;color: #000000}
+.orta2haberler a{display: block;text-decoration: none;font: 25px tahoma;color: #000;padding:12px 0 }
+.orta3{width:370px;height:395px;float:left; margin:35px 0 30px 14px ;background: #dcb5ce;
+      font: 25px tahoma;color: #fff;padding:5px}
+.orta3baslik{width:374px; height:50px;float:left;font: bold 25px tahoma;color: #000}
+.orta3style{width: 374px;height:60px;float:left;font: 20px tahoma}
+.orta3style a{display: block;text-decoration: none;font: 20px tahoma;color: #fff;padding:12px 0 }
+.alt{width:1150px;height:120px;float:left;margin:30px 0 15px 0; background: #42c2c1; border-radius: 10px ;padding:30px 10px}
+.altbaslik{}
+.alt2{width:1150px;height:15px;float:left;margin: 10px 0 0 0; }
+
+.menu{width:950px; height:47px;float:left;margin:10px 0 0 0 ;background: #b8d3f2}
+.menu ul{margin: 0;padding:0;list-style: none}
+.menu ul li{float:left;position: relative}
+.menu ul li a{display: block;width:135px ;text-decoration: none;text-align: center;
+             font:17px tahoma;color:#fff ;padding:12px 0  }
+.menu ul li a:hover{text-decoration: underline;background: #89daea}
+.menu ul li ul{display: none;position:absolute;left: 0;top:34px ; background: #25bed0}
+.menu ul li:hover ul{display: block}
